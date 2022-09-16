@@ -2,7 +2,7 @@
 Intro to Computer Networks with Alvin Lim at Auburn University
 
 ```
-    Total Views per Day from 2022-08-29 to 2022-09-15
+    Total Views per Day from 2022-08-29 to 2022-09-16
 
     Repository Views
    47.00  ┼         ╭╮
@@ -19,10 +19,10 @@ Intro to Computer Networks with Alvin Lim at Auburn University
    12.53  ┤ ╰╮      ││  │╰╯│
     9.40  ┤  │     ╭╯│  │  │
     6.27  ┤  │╭╮   │ │  │  │
-    3.13  ┤  ╰╯│   │ │ ╭╯  │
-    0.00  ┤    ╰───╯ ╰─╯   ╰
+    3.13  ┤  ╰╯│   │ │ ╭╯  ╰╮
+    0.00  ┤    ╰───╯ ╰─╯    ╰
 
-    Chart last updated - Thu Sep 15 01:24:23 2022 UTC
+    Chart last updated - Fri Sep 16 01:24:57 2022 UTC
     
 ```
 
